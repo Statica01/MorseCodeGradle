@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.scala-lang:jline:2.11.0-M3" type="repository">
+    <properties maven-id="org.scala-lang:jline:2.11.0-M3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/jline/2.11.0-M3/jline-2.11.0-M3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
