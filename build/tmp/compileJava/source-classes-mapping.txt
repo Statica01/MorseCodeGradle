@@ -1,14 +1,14 @@
-views/StartMenuView.java
- views.StartMenuView
-views/ConsoleColors.java
- views.ConsoleColors
 controllers/ToEnglishController.java
  controllers.ToEnglishController
-models/MorseCodeChart.java
- models.MorseCodeChart
-controllers/ToMorseController.java
- controllers.ToMorseController
 MainMenu.java
  MainMenu
 controllers/StartMenuController.java
  controllers.StartMenuController
+views/StartMenuView.java
+ views.StartMenuView
+controllers/ToMorseController.java
+ controllers.ToMorseController
+models/MorseCodeChart.java
+ models.MorseCodeChart
+views/ConsoleColors.java
+ views.ConsoleColors
